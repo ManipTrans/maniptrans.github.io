@@ -45,7 +45,12 @@ affiliations:
 # meta:
 #   - '*work done while she was interning at Pixel Genius Lab.'
 bibtex: >
-  TBD
+  @inproceedings{li2025maniptrans,
+    title={ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning},
+    author={Li, Kailin and Li, Puhao and Liu, Tengyu and Li, Yuyang and Huang, Siyuan},
+    booktitle=CVPR,
+    year={2025}
+  }
 
 teaser: teaser.mp4
 abstract: |
