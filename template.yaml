@@ -26,14 +26,14 @@ authors:
     affiliation: [1, 2]
     position: Research Intern
     url: https://xiaoyao-li.github.io/
-  - name: Yuyang Li
-    affiliation: [1, 3]
-    position: Research Intern
-    url: https://yuyangli.com/
   - name: Tengyu Liu
     affiliation: [1]
     position: Researcher
     url: https://tengyu.ai/
+  - name: Yuyang Li
+    affiliation: [1, 3]
+    position: Research Intern
+    url: https://yuyangli.com/
   - name: Siyuan Huang
     affiliation: [1]
     position: Researcher
