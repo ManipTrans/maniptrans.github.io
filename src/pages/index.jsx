@@ -19,7 +19,7 @@ class Template extends React.Component {
     return (
       <div>
         <Helmet
-          title={data.title}
+          title={"ManipTrans"}
           link={[
             { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
             {
