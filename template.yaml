@@ -6,8 +6,8 @@ twitter: '@denkivvakame'
 title: "<span style='font-family: \"Times New Roman\", Times, serif;'><div><span style=' background-color: white; border: 2px solid white; border-radius: 10px; padding: 0 5px; font-variant: small-caps; font-weight: bold; font-size: 1.5em;'><span style='color: #969b91;'>Manip</span><span style='color: #f5b98c;'>Trans</span></span></div>Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning</span>"
 journal: "CVPR'25"
 resources:
-  paper: https://openreview.net/
-  arxiv: https://arxiv.org
+  paper: https://arxiv.org/abs/2503.21860
+  arxiv: https://arxiv.org/abs/2503.21860
   code: https://github.com/ManipTrans/ManipTrans.git
   # video: https://www.youtube.com/embed/onbnb_D1wC8?si=xJczUv716Lt5aO4l&amp;start=1150
   demo: # https://colab.research.google.com/
